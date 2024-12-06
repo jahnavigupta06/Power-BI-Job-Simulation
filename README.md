@@ -20,7 +20,8 @@ Agent’s performance quadrant -> average handle time (talk duration) vs calls a
 
 ![image](https://github.com/user-attachments/assets/013ebf9d-859a-4d71-bb4a-15b643c41f3e)
 
-Task 2: Customer Retention
+**Task 2: Customer Retention**
+
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
@@ -38,18 +39,19 @@ We would like to know more about our customers: visualised clearly so that it’
 ![image](https://github.com/user-attachments/assets/5283b8b9-b1c2-472b-9030-97f0b6c44270)
 
 
-Task 3: Diversity & Inclusion
+**Task 3: Diversity & Inclusion**
+
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-number of men
+Number of men
 
-number of women
+Number of women
 
-number of leavers
+Number of leavers
 
 % employees promoted (FY21)
 

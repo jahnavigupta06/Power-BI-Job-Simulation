@@ -65,3 +65,5 @@ Average performance rating: men
 
 Average Performance rating: women
 
+
+![image](https://github.com/user-attachments/assets/00756303-091e-400f-be85-a0b99216a5f7)
